@@ -1,8 +1,2 @@
-interface test {
- test: number,
-}
-
-const a: test = {
-  test: 99
-}
+const a = { test: 99 };
 console.log(a);
